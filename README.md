@@ -10,8 +10,8 @@ I am an ambitious Egyptian developer, I started my web development career 3 year
 - **🌱 I’m currently learning** Nodejs, Postgress, MongoDB, Jasmine Unit Testing
 - **💞️ I’m looking to collaborate** on interesting and challenging projects
 - **📫 How to reach me :** 3mrhusn@gmail.com  OR [Contact Me](https://3mrhusn-portfolio.netlify.app/#contact)
-- **🌍  I'm based in Cairo/Egypt
-- **🖥️  See my portfolio at [Amr Hussein](http://3mrhusn-portfolio.netlify.app/)
+- **🌍  I'm based in** Cairo/Egypt
+- **🖥️  See my portfolio at** [Amr Hussein](http://3mrhusn-portfolio.netlify.app/)
 ### 🚀 Skills and Tools:
 
 <p align="left">
