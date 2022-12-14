@@ -1,11 +1,15 @@
 # <div align='center' > Hi,👋 I’m **[Amr Hussein](https://3mrhusn-portfolio.netlify.app/)**</div> 
  
-### <div align='center'>  **Fullstack Web Developer** </div> 
+### <div align='center'> **Fullstack Web Developer**
+</div> 
+<div align="center"> <img width="100" alt="emojiprofile" src="https://user-images.githubusercontent.com/34787413/207609892-e7614280-4efa-4276-90da-6f4b8a24f6fa.png" align-middle />
+ </div>
+
+I am an ambitious Egyptian developer, I started my web development career 3 years ago as a Front-end developer and I've hands on experience in building projects using React, Javascript, Typescript, Html, Css . 
+
+Then I decided to become a fullstack developer, so I start by learned Nodejs, Express, MongoDB, Postgress & Rest API In order to offer my services in the market as a fullstack web developer.
+
 ### 🙋‍♂️ About Me
-
-
-I am an ambitious Egyptian developer, I started my web development career 3 years ago as a Front-end developer and I've hands on experience in building projects using React, Javascript, Typescript, Html, Css . Then I decided to become a fullstack developer, so I start by learned Nodejs, Express, MongoDB, Postgress & Rest API In order to offer my services in the market as a fullstack web developer.
-
 
 - **🌱 I’m currently learning** Nodejs, Postgress, MongoDB, Jasmine Unit Testing
 - **💞️ I’m looking to collaborate** on interesting and challenging projects
