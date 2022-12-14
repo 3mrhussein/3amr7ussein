@@ -45,9 +45,11 @@ I am an ambitious Egyptian developer, I started my web development career 3 year
 ### Badges
 
 <b>My GitHub Stats</b>
+<p align="middle" float="left">
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=3amr7ussein&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="3amr7ussein's GitHub stats" />
+ 
+ <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3amr7ussein&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=3amr7ussein&bg_color=181824&color=ffffff&line=f97316&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</p>
 
-<a href="http://www.github.com/3amr7ussein"><img src="https://github-readme-stats.vercel.app/api?username=3amr7ussein&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="3amr7ussein's GitHub stats" /></a>
-
-<a href="http://www.github.com/3amr7ussein"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=3amr7ussein&bg_color=181824&color=ffffff&line=f97316&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/3amr7ussein" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3amr7ussein&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
