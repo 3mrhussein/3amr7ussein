@@ -5,9 +5,9 @@
 <div align="center"> <img width="100" alt="emojiprofile" src="https://user-images.githubusercontent.com/34787413/207609892-e7614280-4efa-4276-90da-6f4b8a24f6fa.png" align-middle />
  </div>
 
-I am an ambitious Egyptian developer, I started my web development career 3 years ago as a Front-end developer and I've hands on experience in building projects using React, Javascript, Typescript, Html, Css . 
+Ambitious Egyptian developer, With 3+ years experience in web development, started as a Front-end with hands on experience in building projects using React, Javascript, Typescript, Html, Css and much more. 
 
-Then I decided to become a fullstack developer, so I start by learned Nodejs, Express, MongoDB, Postgress & Rest API In order to offer my services in the market as a fullstack web developer.
+I've decided to become a fullstack developer, by learning Nodejs, Express, MongoDB, Postgress & Rest APIs In order to offer my services in the market as a fullstack developer.
 
 ### 🙋‍♂️ About Me
 
