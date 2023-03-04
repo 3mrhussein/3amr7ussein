@@ -15,7 +15,7 @@ I've decided to become a fullstack developer, by learning Nodejs, Express, Mongo
 - **💞️ I’m looking to collaborate** on interesting and challenging projects
 - **📫 How to reach me :** 3mrhusn@gmail.com  OR [Contact Me](https://3mrhusn-portfolio.netlify.app/#contact)
 - **🌍  I'm based in** Cairo/Egypt
-- **🖥️  See my portfolio at** [Amr Hussein]([https://amrhusn-portfolio.vercel.app/])
+- **🖥️  See my portfolio at** [Amr Hussein](https://amrhusn-portfolio.vercel.app/)
 ### 🚀 Skills and Tools:
 
 <p align="left">
