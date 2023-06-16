@@ -7,7 +7,7 @@
 
 Ambitious Egyptian developer, With 3+ years experience in web development, started as a Front-end with hands on experience in building projects using React, Javascript, Typescript, Html, Css and much more. 
 
-I've decided to become a fullstack developer, by learning Nodejs, Express, MongoDB, Postgress & Rest APIs In order to offer my services in the market as a fullstack developer.
+In addition I've experience in building Rest APIs using Nodejs, Express, MongoDB, Postgress , DB2 , App Connect Enterprise (ACE).
 
 ### 🙋‍♂️ About Me
 
